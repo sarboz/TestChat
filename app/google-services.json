@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "343150805279",
+    "firebase_url": "https://chat-9bbf2.firebaseio.com",
+    "project_id": "chat-9bbf2",
+    "storage_bucket": "chat-9bbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343150805279:android:215a75b189c68c1611f02a",
+        "android_client_info": {
+          "package_name": "com.first.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343150805279-7l6mvu0ls9nuuqurnccnvbe8gn3793eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3n-zKQM_o7EnyD4E3GrcrBJODX-ZGiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343150805279-7l6mvu0ls9nuuqurnccnvbe8gn3793eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343150805279:android:5560d272c7c13635",
+        "android_client_info": {
+          "package_name": "tj.chatFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343150805279-qsfc90npk9j2ki0fk14tjher3c11tbg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tj.chatFirebase",
+            "certificate_hash": "a9d78491e9d2cd76e06e76e90ede114bfa723c7a"
+          }
+        },
+        {
+          "client_id": "343150805279-7l6mvu0ls9nuuqurnccnvbe8gn3793eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3n-zKQM_o7EnyD4E3GrcrBJODX-ZGiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343150805279-7l6mvu0ls9nuuqurnccnvbe8gn3793eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
